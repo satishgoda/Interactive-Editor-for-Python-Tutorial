@@ -33,10 +33,24 @@ IEP - Interactive Editor for Python
     :backlinks: entry
 
 .. sectnum::</t>
-<t tx="satishgoda.20150613223721.1">.. image:: images/iep_case-study_pyside_1.png</t>
-<t tx="satishgoda.20150613224930.1">IEP is a simple and efficient IDE for creating, introspecting, debugging using the Python programming language.
+<t tx="satishgoda.20150613223721.1">.. image:: images/iep_case-study_pyside_1.png
 
-You can download IEP at http://www.iep-project.org/</t>
+</t>
+<t tx="satishgoda.20150613224930.1">.. sidebar:: Download IEP
+   
+   You can download IEP at http://www.iep-project.org/
+
+IEP is a simple and efficient IDE for creating, introspecting, debugging using the Python programming language.
+
+Some of the sailent features of IEP are
+
+* Ability to configure multiple python shells
+
+* Integrate into the mainloop of various GUI toolkits
+
+
+
+    </t>
 <t tx="satishgoda.20150613225722.1">Let us now see the various ways IEP can be put to use for realizing your dreams and aspirations.</t>
 <t tx="satishgoda.20150613230927.1">https://github.com/satishgoda/Interactive-Editor-for-Python-Tutorial/</t>
 <t tx="satishgoda.20150613230932.1">https://help.github.com/articles/creating-project-pages-manually/</t>

@@ -15,9 +15,17 @@ IEP - Interactive Editor for Python
 About
 +++++
 
+.. sidebar:: Download IEP
+   
+   You can download IEP at http://www.iep-project.org/
+
 IEP is a simple and efficient IDE for creating, introspecting, debugging using the Python programming language.
 
-You can download IEP at http://www.iep-project.org/
+Some of the sailent features of IEP are
+
+* Ability to configure multiple python shells
+
+* Integrate into the mainloop of various GUI toolkits
 
 Case Studies
 ++++++++++++
