@@ -22,15 +22,17 @@
 </vnodes>
 <tnodes>
 <t tx="satishgoda.20150613220458.2"></t>
-<t tx="satishgoda.20150613222146.1">
-###################################
+<t tx="satishgoda.20150613222146.1">###################################
 IEP - Interactive Editor for Python
 ###################################
 
 .. attention::
     This tutorial is under active development and the present content is subject to change (reordered, refactored, removed)
     
-.. contents:: Table of Contents</t>
+.. contents:: Table of Contents
+    :backlinks: entry
+
+.. sectnum::</t>
 <t tx="satishgoda.20150613223721.1">.. image:: images/iep_case-study_pyside_1.png</t>
 <t tx="satishgoda.20150613224930.1">IEP is a simple and efficient IDE for creating, introspecting, debugging using the Python programming language.
 

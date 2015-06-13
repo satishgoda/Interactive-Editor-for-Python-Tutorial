@@ -1,6 +1,5 @@
 .. rst3: filename: index.html
 
-
 ###################################
 IEP - Interactive Editor for Python
 ###################################
@@ -9,6 +8,9 @@ IEP - Interactive Editor for Python
     This tutorial is under active development and the present content is subject to change (reordered, refactored, removed)
     
 .. contents:: Table of Contents
+    :backlinks: entry
+
+.. sectnum::
 
 About
 +++++
