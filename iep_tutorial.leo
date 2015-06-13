@@ -9,16 +9,19 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="satishgoda.20150613220458.2"><vh>Meta</vh></v>
 <v t="satishgoda.20150613222146.1" a="E"><vh>@rst index.html</vh>
 <v t="satishgoda.20150613224930.1"><vh>About</vh></v>
 <v t="satishgoda.20150613225722.1" a="E"><vh>Case Studies</vh>
 <v t="satishgoda.20150613223721.1"><vh>Case Study 1</vh></v>
 </v>
 </v>
+<v t="satishgoda.20150613220458.2" a="E"><vh>Meta</vh>
+<v t="satishgoda.20150613230927.1"><vh>GitHub Project</vh></v>
+<v t="satishgoda.20150613230932.1"><vh>Project Page</vh></v>
+</v>
 </vnodes>
 <tnodes>
-<t tx="satishgoda.20150613220458.2">https://github.com/satishgoda/Interactive-Editor-for-Python-Tutorial/</t>
+<t tx="satishgoda.20150613220458.2"></t>
 <t tx="satishgoda.20150613222146.1">
 ###################################
 IEP - Interactive Editor for Python
@@ -26,11 +29,14 @@ IEP - Interactive Editor for Python
 
 .. attention::
     This tutorial is under active development and the present content is subject to change (reordered, refactored, removed)
-</t>
+    
+.. contents:: Table of Contents</t>
 <t tx="satishgoda.20150613223721.1">.. image:: images/iep_case-study_pyside_1.png</t>
 <t tx="satishgoda.20150613224930.1">IEP is a simple and efficient IDE for creating, introspecting, debugging using the Python programming language.
 
 You can download IEP at http://www.iep-project.org/</t>
-<t tx="satishgoda.20150613225722.1"></t>
+<t tx="satishgoda.20150613225722.1">Let us now see the various ways IEP can be put to use for realizing your dreams and aspirations.</t>
+<t tx="satishgoda.20150613230927.1">https://github.com/satishgoda/Interactive-Editor-for-Python-Tutorial/</t>
+<t tx="satishgoda.20150613230932.1">https://help.github.com/articles/creating-project-pages-manually/</t>
 </tnodes>
 </leo_file>

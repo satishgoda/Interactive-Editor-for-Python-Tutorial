@@ -7,6 +7,8 @@ IEP - Interactive Editor for Python
 
 .. attention::
     This tutorial is under active development and the present content is subject to change (reordered, refactored, removed)
+    
+.. contents:: Table of Contents
 
 About
 +++++
@@ -18,7 +20,7 @@ You can download IEP at http://www.iep-project.org/
 Case Studies
 ++++++++++++
 
-
+Let us now see the various ways IEP can be put to use for realizing your dreams and aspirations.
 
 Case Study 1
 ************
