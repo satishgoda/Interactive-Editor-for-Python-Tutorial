@@ -1,0 +1,27 @@
+.. rst3: filename: index.html
+
+
+###################################
+IEP - Interactive Editor for Python
+###################################
+
+.. attention::
+    This tutorial is under active development and the present content is subject to change (reordered, refactored, removed)
+
+About
++++++
+
+IEP is a simple and efficient IDE for creating, introspecting, debugging using the Python programming language.
+
+You can download IEP at http://www.iep-project.org/
+
+Case Studies
+++++++++++++
+
+
+
+Case Study 1
+************
+
+.. image:: images/iep_case-study_pyside_1.png
+
