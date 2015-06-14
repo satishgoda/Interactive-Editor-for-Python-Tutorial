@@ -27,6 +27,60 @@ Some of the sailent features of IEP are
 
 * Integrate into the mainloop of various GUI toolkits
 
+Using IEP
++++++++++
+
+
+
+Default User Interface
+**********************
+
+.. image:: images\iep_first_launch_1.png
+
+When you launch IEP for the first time, you will be presented with the preceeding user interface.
+
+Shells
+^^^^^^
+
+This displays current shell selected by the user.
+
+One can create multiple shells with different configurations.
+
+Code Editor
+^^^^^^^^^^^
+
+One can type code in a temporary file and execute code.
+
+Files from disk can also be loaded.
+
+Tools
+^^^^^
+
+By default the following Tools are loaded 
+
+* Source Structure
+
+* File Browser
+
+How To
+++++++
+
+
+
+Configure a new Shell
+*********************
+
+Click on the dropdown menu in the Shells header and choose "Edit shell configurations".
+
+Using temporary editor buffer
+*****************************
+
+Enter the code segment below and press CTRL+M::
+
+    from PySide.QtGui import QMainWindow
+    
+    mw = QMainWindow()
+
 Case Studies
 ++++++++++++
 
@@ -35,5 +89,5 @@ Let us now see the various ways IEP can be put to use for realizing your dreams 
 Case Study 1
 ************
 
-.. image:: images/iep_case-study_pyside_1.png
+.. image:: images\iep_case-study_pyside_1.png
 

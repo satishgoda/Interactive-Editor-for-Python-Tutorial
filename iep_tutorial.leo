@@ -11,6 +11,17 @@
 <vnodes>
 <v t="satishgoda.20150613222146.1" a="E"><vh>@rst index.html</vh>
 <v t="satishgoda.20150613224930.1"><vh>About</vh></v>
+<v t="satishgoda.20150614123111.1" a="E"><vh>Using IEP</vh>
+<v t="satishgoda.20150614123121.1" a="E"><vh>Default User Interface</vh>
+<v t="satishgoda.20150614144211.1"><vh>Shells</vh></v>
+<v t="satishgoda.20150614144214.1"><vh>Code Editor</vh></v>
+<v t="satishgoda.20150614144222.1"><vh>Tools</vh></v>
+</v>
+</v>
+<v t="satishgoda.20150614151449.1" a="E"><vh>How To</vh>
+<v t="satishgoda.20150614151530.1"><vh>Configure a new Shell</vh></v>
+<v t="satishgoda.20150614173630.1"><vh>Using temporary editor buffer</vh></v>
+</v>
 <v t="satishgoda.20150613225722.1" a="E"><vh>Case Studies</vh>
 <v t="satishgoda.20150613223721.1"><vh>Case Study 1</vh></v>
 </v>
@@ -34,7 +45,7 @@ IEP - Interactive Editor for Python
     :backlinks: entry
 
 .. sectnum::</t>
-<t tx="satishgoda.20150613223721.1">.. image:: images/iep_case-study_pyside_1.png
+<t tx="satishgoda.20150613223721.1">.. image:: images\iep_case-study_pyside_1.png
 
 </t>
 <t tx="satishgoda.20150613224930.1">.. sidebar:: Download IEP
@@ -57,6 +68,29 @@ Some of the sailent features of IEP are
 <t tx="satishgoda.20150613230932.1">https://help.github.com/articles/creating-project-pages-manually/</t>
 <t tx="satishgoda.20150613234830.1">http://docutils.sourceforge.net/rst.html
 http://sphinx-doc.org/rest.html
+</t>
+<t tx="satishgoda.20150614123111.1"></t>
+<t tx="satishgoda.20150614123121.1">.. image:: images\iep_first_launch_1.png
+
+When you launch IEP for the first time, you will be presented with the preceeding user interface.</t>
+<t tx="satishgoda.20150614144211.1">This displays current shell selected by the user.
+
+One can create multiple shells with different configurations. </t>
+<t tx="satishgoda.20150614144214.1">One can type code in a temporary file and execute code.
+
+Files from disk can also be loaded. </t>
+<t tx="satishgoda.20150614144222.1">By default the following Tools are loaded 
+
+* Source Structure
+
+* File Browser</t>
+<t tx="satishgoda.20150614151449.1"></t>
+<t tx="satishgoda.20150614151530.1">Click on the dropdown menu in the Shells header and choose "Edit shell configurations".</t>
+<t tx="satishgoda.20150614173630.1">Enter the code segment below and press CTRL+M::
+
+    from PySide.QtGui import QMainWindow
+    
+    mw = QMainWindow()
 </t>
 </tnodes>
 </leo_file>
