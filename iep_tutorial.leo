@@ -18,6 +18,7 @@
 <v t="satishgoda.20150613220458.2" a="E"><vh>Meta</vh>
 <v t="satishgoda.20150613230927.1"><vh>GitHub Project</vh></v>
 <v t="satishgoda.20150613230932.1"><vh>Project Page</vh></v>
+<v t="satishgoda.20150613234830.1"><vh>rst</vh></v>
 </v>
 </vnodes>
 <tnodes>
@@ -54,5 +55,8 @@ Some of the sailent features of IEP are
 <t tx="satishgoda.20150613225722.1">Let us now see the various ways IEP can be put to use for realizing your dreams and aspirations.</t>
 <t tx="satishgoda.20150613230927.1">https://github.com/satishgoda/Interactive-Editor-for-Python-Tutorial/</t>
 <t tx="satishgoda.20150613230932.1">https://help.github.com/articles/creating-project-pages-manually/</t>
+<t tx="satishgoda.20150613234830.1">http://docutils.sourceforge.net/rst.html
+http://sphinx-doc.org/rest.html
+</t>
 </tnodes>
 </leo_file>
