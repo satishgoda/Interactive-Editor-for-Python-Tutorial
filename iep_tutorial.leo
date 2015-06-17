@@ -95,14 +95,20 @@ Files from disk can also be loaded. </t>
 * Source Structure
 * File Browser</t>
 <t tx="satishgoda.20150614151449.1"></t>
-<t tx="satishgoda.20150614151530.1">Click on the dropdown menu in the Shells header and choose "Edit shell configurations".</t>
+<t tx="satishgoda.20150614151530.1">Click on the dropdown menu in the Shells header and choose "Edit shell configurations".
+
+1. Add Config
+2. Choose the necessary options.
+
+.. image:: images\iep_shells_config_ui_toolkit_pyside.png
+</t>
 <t tx="satishgoda.20150614173630.1">Enter the code segment below and press CTRL+M::
 
     from PySide.QtGui import QMainWindow
     
     mw = QMainWindow()
 
-.. attention:: If the current shell is not configured with PySide or PyQt, you will encounter the following error
+.. attention:: If shell is not configured with PySide or PyQt
 
    ``In [1]: (executing lines 1 to 3 of "&lt;tmp 1&gt;")``
     

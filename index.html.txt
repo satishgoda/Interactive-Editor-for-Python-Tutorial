@@ -82,6 +82,11 @@ Configure a new Shell
 
 Click on the dropdown menu in the Shells header and choose "Edit shell configurations".
 
+1. Add Config
+2. Choose the necessary options.
+
+.. image:: images\iep_shells_config_ui_toolkit_pyside.png
+
 Using temporary editor buffer
 *****************************
 
@@ -91,7 +96,7 @@ Enter the code segment below and press CTRL+M::
     
     mw = QMainWindow()
 
-.. attention:: If the current shell is not configured with PySide or PyQt, you will encounter the following error
+.. attention:: If shell is not configured with PySide or PyQt
 
    ``In [1]: (executing lines 1 to 3 of "<tmp 1>")``
     
