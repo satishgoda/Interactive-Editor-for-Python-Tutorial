@@ -69,7 +69,18 @@ Some of the sailent features of IEP are
 <t tx="satishgoda.20150613234830.1">http://docutils.sourceforge.net/rst.html
 http://sphinx-doc.org/rest.html
 </t>
-<t tx="satishgoda.20150614123111.1"></t>
+<t tx="satishgoda.20150614123111.1">IEP is very easy to get used to. The following are the features exposed by its user interface
+
+
+* Shells
+* Editor
+* Tools
+
+
+The location of the Editor is fixed in the user interface (although it can be resized.) 
+
+
+The Shells and Tools can be moved around and docked anywhere in the user interface (and also popped out)</t>
 <t tx="satishgoda.20150614123121.1">.. image:: images\iep_first_launch_1.png
 
 When you launch IEP for the first time, you will be presented with the preceeding user interface.</t>
@@ -82,7 +93,6 @@ Files from disk can also be loaded. </t>
 <t tx="satishgoda.20150614144222.1">By default the following Tools are loaded 
 
 * Source Structure
-
 * File Browser</t>
 <t tx="satishgoda.20150614151449.1"></t>
 <t tx="satishgoda.20150614151530.1">Click on the dropdown menu in the Shells header and choose "Edit shell configurations".</t>
@@ -91,6 +101,13 @@ Files from disk can also be loaded. </t>
     from PySide.QtGui import QMainWindow
     
     mw = QMainWindow()
-</t>
+
+.. attention:: If the current shell is not configured with PySide or PyQt, you will encounter the following error
+
+   ``In [1]: (executing lines 1 to 3 of "&lt;tmp 1&gt;")``
+    
+   ``QWidget: Must construct a QApplication before a QPaintDevice``
+   
+   ``The kernel process exited. (1)``</t>
 </tnodes>
 </leo_file>

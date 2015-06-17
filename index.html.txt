@@ -30,7 +30,18 @@ Some of the sailent features of IEP are
 Using IEP
 +++++++++
 
+IEP is very easy to get used to. The following are the features exposed by its user interface
 
+
+* Shells
+* Editor
+* Tools
+
+
+The location of the Editor is fixed in the user interface (although it can be resized.) 
+
+
+The Shells and Tools can be moved around and docked anywhere in the user interface (and also popped out)
 
 Default User Interface
 **********************
@@ -59,7 +70,6 @@ Tools
 By default the following Tools are loaded 
 
 * Source Structure
-
 * File Browser
 
 How To
@@ -80,6 +90,14 @@ Enter the code segment below and press CTRL+M::
     from PySide.QtGui import QMainWindow
     
     mw = QMainWindow()
+
+.. attention:: If the current shell is not configured with PySide or PyQt, you will encounter the following error
+
+   ``In [1]: (executing lines 1 to 3 of "<tmp 1>")``
+    
+   ``QWidget: Must construct a QApplication before a QPaintDevice``
+   
+   ``The kernel process exited. (1)``
 
 Case Studies
 ++++++++++++
