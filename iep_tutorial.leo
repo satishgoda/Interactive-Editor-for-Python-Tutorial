@@ -114,6 +114,8 @@ Files from disk can also be loaded. </t>
     
    ``QWidget: Must construct a QApplication before a QPaintDevice``
    
-   ``The kernel process exited. (1)``</t>
+   ``The kernel process exited. (1)``
+   
+.. image:: images\iep_howto_editor_using_the_tmp_buffer.png</t>
 </tnodes>
 </leo_file>
