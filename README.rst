@@ -4,7 +4,10 @@
 About
 =====
 
-Tutorial for the excellent Pyzo Python IDE  (http://www.pyzo.org/)
+Tutorial for the excellent Pyzo Python IDE  
+
+* http://www.pyzo.org/
+* https://groups.google.com/forum/#!forum/pyzo
 
 Pyzo Usecases
 ============
